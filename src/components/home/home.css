@@ -1,0 +1,46 @@
+*{
+    background-color: #F3EFE0;
+    color: #222222;
+    font-family: 'Roboto', sans-serif;
+}
+.logo{
+    font-size: 54px;
+    margin-left: 40px;
+    padding: 80px;
+    font-weight: bold;
+    color:  #22A39F;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+.caption{
+    font-size: 20px;
+    margin-left: 115px;
+    font-style: italic; 
+    color:  #434242;  
+}
+.btn{
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    color: #F3EFE0 ;
+    background-color:  #22A39F;
+    font-size: 20px;
+    font-weight: 500; 
+    cursor: pointer;
+    margin-left: 125px; 
+    margin-top: 55px;
+}
+.home{
+    display: flex;
+    flex-direction: column;
+}
+.img{  
+}
+.total{
+    display: flex;
+    flex-direction: row;
+}
