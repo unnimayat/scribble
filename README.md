@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# Scribble
+Scribble is a creative writing assistant powered by OpenAI. It allows users to generate poems, stories, and other written content based on their selected options.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
 
-## Available Scripts
+- Choose from a variety of writing styles and genres.
+- Generate poems, stories, essays, and more with ease.
+- Get creative inspiration and ideas for your writing projects.
+- Fine-tune the generated content to meet your specific requirements.
+- Enjoy a seamless and user-friendly interface.
 
-In the project directory, you can run:
 
-### `npm start`
+ 
+# Cloning the repository
+--> Clone the repository using the command below :
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+https://github.com/unnimayat/scribble.git
+ 
+ 
+ 
+# Running the App
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+--> To run the App, we use :
+npm start
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+⚠ Then, the development server will be started at  http://192.168.227.55:57063
 
-### `npm run build`
+# App Preview
+![fig1](https://github.com/unnimayat/scribble/assets/88229921/8ff36bb2-7cee-490b-98b3-0957c8c74ec9)
+![fig2](https://github.com/unnimayat/scribble/assets/88229921/7a873e5b-f96d-4040-8693-e69fc9d0a996)
+![fig3](https://github.com/unnimayat/scribble/assets/88229921/058ad334-7994-47b3-813c-a753d88afdb5)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
